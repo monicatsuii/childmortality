@@ -1,4 +1,4 @@
-Entity,Year,"Child mortality 1950-2017 (IHME, 2018)",Continent
+Country,Year,Mortality,Continent
 Algeria,2017,24.11,Africa
 Angola,2017,71.04,Africa
 Benin,2017,89.8,Africa
@@ -7,7 +7,7 @@ Burkina Faso,2017,115.59,Africa
 Burundi,2017,86.61,Africa
 Cameroon,2017,78.71,Africa
 Central African Republic,2017,131.1,Africa
-Chad,2017,122.75,Africa
+Chad,1950,331.28,Africa
 Comoros,2017,50.19,Africa
 Congo,2017,59.9,Africa
 Djibouti,2017,48.82,Africa
@@ -81,7 +81,7 @@ Saint Vincent and the Grenadines,2017,18.93,Americas
 Suriname,2017,31.56,Americas
 Trinidad and Tobago,2017,18.64,Americas
 Uruguay,2017,10.31,Americas
-Afghanistan,2017,55.77,Asia
+Afghanistan,1950,278.38,Asia
 Armenia,2017,10.55,Asia
 Azerbaijan,2017,38.24,Asia
 Bahrain,2017,7.52,Asia
@@ -231,7 +231,7 @@ Burkina Faso,2010,142.47,Africa
 Burundi,2010,103.8,Africa
 Cameroon,2010,109.46,Africa
 Central African Republic,2010,160.73,Africa
-Chad,2010,151.17,Africa
+Chad,1955,314.27,Africa
 Comoros,2010,69.45,Africa
 Congo,2010,76.78,Africa
 Djibouti,2010,72.34,Africa
@@ -305,7 +305,7 @@ Saint Vincent and the Grenadines,2010,22.65,Americas
 Suriname,2010,37.48,Americas
 Trinidad and Tobago,2010,19.88,Americas
 Uruguay,2010,13.14,Americas
-Afghanistan,2010,74.67,Asia
+Afghanistan,1955,265.58,Asia
 Armenia,2010,14.49,Asia
 Azerbaijan,2010,45.34,Asia
 Bahrain,2010,8.37,Asia
@@ -455,7 +455,7 @@ Burkina Faso,2005,164.48,Africa
 Burundi,2005,138.44,Africa
 Cameroon,2005,129.93,Africa
 Central African Republic,2005,178.89,Africa
-Chad,2005,172.7,Africa
+Chad,1960,296.97,Africa
 Comoros,2005,82.71,Africa
 Congo,2005,96.57,Africa
 Djibouti,2005,89.31,Africa
@@ -529,7 +529,7 @@ Saint Vincent and the Grenadines,2005,24.88,Americas
 Suriname,2005,43.09,Americas
 Trinidad and Tobago,2005,23.73,Americas
 Uruguay,2005,16.38,Americas
-Afghanistan,2005,97.28,Asia
+Afghanistan,1960,254.43,Asia
 Armenia,2005,19.19,Asia
 Azerbaijan,2005,57.18,Asia
 Bahrain,2005,10.46,Asia
@@ -679,7 +679,7 @@ Burkina Faso,2000,188.06,Africa
 Burundi,2000,176.09,Africa
 Cameroon,2000,141.91,Africa
 Central African Republic,2000,190.19,Africa
-Chad,2000,189.77,Africa
+Chad,1965,281.62,Africa
 Comoros,2000,102.08,Africa
 Congo,2000,114.24,Africa
 Djibouti,2000,108.34,Africa
@@ -753,7 +753,7 @@ Saint Vincent and the Grenadines,2000,27.06,Americas
 Suriname,2000,46.81,Americas
 Trinidad and Tobago,2000,28.81,Americas
 Uruguay,2000,18.47,Americas
-Afghanistan,2000,119.8,Asia
+Afghanistan,1965,243.63,Asia
 Armenia,2000,30.76,Asia
 Azerbaijan,2000,69.78,Asia
 Bahrain,2000,12.15,Asia
@@ -903,7 +903,7 @@ Burkina Faso,1995,207,Africa
 Burundi,1995,191.43,Africa
 Cameroon,1995,147.2,Africa
 Central African Republic,1995,187.16,Africa
-Chad,1995,193.17,Africa
+Chad,1970,271.92,Africa
 Comoros,1995,112.55,Africa
 Congo,1995,110.01,Africa
 Djibouti,1995,117.59,Africa
@@ -977,7 +977,7 @@ Saint Vincent and the Grenadines,1995,29.32,Americas
 Suriname,1995,50.33,Americas
 Trinidad and Tobago,1995,26.65,Americas
 Uruguay,1995,24.95,Americas
-Afghanistan,1995,134.7,Asia
+Afghanistan,1970,232.78,Asia
 Armenia,1995,40.71,Asia
 Azerbaijan,1995,78.69,Asia
 Bahrain,1995,16.94,Asia
@@ -1127,7 +1127,7 @@ Burkina Faso,1990,216.89,Africa
 Burundi,1990,187.26,Africa
 Cameroon,1990,143.94,Africa
 Central African Republic,1990,185.11,Africa
-Chad,1990,202.71,Africa
+Chad,1975,253.54,Africa
 Comoros,1990,128.67,Africa
 Congo,1990,103.95,Africa
 Djibouti,1990,122.61,Africa
@@ -1201,7 +1201,7 @@ Saint Vincent and the Grenadines,1990,32.71,Americas
 Suriname,1990,55.32,Americas
 Trinidad and Tobago,1990,26.2,Americas
 Uruguay,1990,26.09,Americas
-Afghanistan,1990,147.62,Asia
+Afghanistan,1975,223.17,Asia
 Armenia,1990,45.74,Asia
 Azerbaijan,1990,83.64,Asia
 Bahrain,1990,23.4,Asia
@@ -1351,7 +1351,7 @@ Burkina Faso,1985,238.77,Africa
 Burundi,1985,197.32,Africa
 Cameroon,1985,156.85,Africa
 Central African Republic,1985,181.1,Africa
-Chad,1985,223.95,Africa
+Chad,1980,240.6,Africa
 Comoros,1985,149.67,Africa
 Congo,1985,106.05,Africa
 Djibouti,1985,128.94,Africa
@@ -1425,7 +1425,7 @@ Saint Vincent and the Grenadines,1985,39.07,Americas
 Suriname,1985,61.07,Americas
 Trinidad and Tobago,1985,29.71,Americas
 Uruguay,1985,36.33,Americas
-Afghanistan,1985,199.12,Asia
+Afghanistan,1980,216.38,Asia
 Armenia,1985,56.98,Asia
 Azerbaijan,1985,92.86,Asia
 Bahrain,1985,24.85,Asia
@@ -1575,7 +1575,7 @@ Burkina Faso,1980,266.79,Africa
 Burundi,1980,220.87,Africa
 Cameroon,1980,179.05,Africa
 Central African Republic,1980,182.88,Africa
-Chad,1980,240.6,Africa
+Chad,1985,223.95,Africa
 Comoros,1980,177.06,Africa
 Congo,1980,134.83,Africa
 Djibouti,1980,131.4,Africa
@@ -1649,7 +1649,7 @@ Saint Vincent and the Grenadines,1980,56.48,Americas
 Suriname,1980,69.94,Americas
 Trinidad and Tobago,1980,38.2,Americas
 Uruguay,1980,45.09,Americas
-Afghanistan,1980,216.38,Asia
+Afghanistan,1985,199.12,Asia
 Armenia,1980,70.1,Asia
 Azerbaijan,1980,97.31,Asia
 Bahrain,1980,32.25,Asia
@@ -1799,7 +1799,7 @@ Burkina Faso,1975,298.32,Africa
 Burundi,1975,239.93,Africa
 Cameroon,1975,197.36,Africa
 Central African Republic,1975,186.69,Africa
-Chad,1975,253.54,Africa
+Chad,1990,202.71,Africa
 Comoros,1975,198.16,Africa
 Congo,1975,166.9,Africa
 Djibouti,1975,138.7,Africa
@@ -1873,7 +1873,7 @@ Saint Vincent and the Grenadines,1975,75.83,Americas
 Suriname,1975,78.64,Americas
 Trinidad and Tobago,1975,49.78,Americas
 Uruguay,1975,60.75,Americas
-Afghanistan,1975,223.17,Asia
+Afghanistan,1990,147.62,Asia
 Armenia,1975,86.85,Asia
 Azerbaijan,1975,108.56,Asia
 Bahrain,1975,55.17,Asia
@@ -2023,7 +2023,7 @@ Burkina Faso,1970,317.99,Africa
 Burundi,1970,253.37,Africa
 Cameroon,1970,222.16,Africa
 Central African Republic,1970,188.42,Africa
-Chad,1970,271.92,Africa
+Chad,1995,193.17,Africa
 Comoros,1970,220.06,Africa
 Congo,1970,196.02,Africa
 Djibouti,1970,150.26,Africa
@@ -2097,7 +2097,7 @@ Saint Vincent and the Grenadines,1970,94.99,Americas
 Suriname,1970,83.01,Americas
 Trinidad and Tobago,1970,56.47,Americas
 Uruguay,1970,62.35,Americas
-Afghanistan,1970,232.78,Asia
+Afghanistan,1995,134.7,Asia
 Armenia,1970,99.05,Asia
 Azerbaijan,1970,143.47,Asia
 Bahrain,1970,89.96,Asia
@@ -2247,7 +2247,7 @@ Burkina Faso,1965,333.06,Africa
 Burundi,1965,268.59,Africa
 Cameroon,1965,247.14,Africa
 Central African Republic,1965,198.67,Africa
-Chad,1965,281.62,Africa
+Chad,2000,189.77,Africa
 Comoros,1965,246.68,Africa
 Congo,1965,217.47,Africa
 Djibouti,1965,158.63,Africa
@@ -2321,7 +2321,7 @@ Saint Vincent and the Grenadines,1965,116.96,Americas
 Suriname,1965,92.09,Americas
 Trinidad and Tobago,1965,62.8,Americas
 Uruguay,1965,65.14,Americas
-Afghanistan,1965,243.63,Asia
+Afghanistan,2000,119.8,Asia
 Armenia,1965,129.33,Asia
 Azerbaijan,1965,192.12,Asia
 Bahrain,1965,132.37,Asia
@@ -2471,7 +2471,7 @@ Burkina Faso,1960,354.46,Africa
 Burundi,1960,285.31,Africa
 Cameroon,1960,285.11,Africa
 Central African Republic,1960,217.71,Africa
-Chad,1960,296.97,Africa
+Chad,2005,172.7,Africa
 Comoros,1960,273.15,Africa
 Congo,1960,238.2,Africa
 Djibouti,1960,166.55,Africa
@@ -2545,7 +2545,7 @@ Saint Vincent and the Grenadines,1960,146.36,Americas
 Suriname,1960,101.33,Americas
 Trinidad and Tobago,1960,78.34,Americas
 Uruguay,1960,62.59,Americas
-Afghanistan,1960,254.43,Asia
+Afghanistan,2005,97.28,Asia
 Armenia,1960,168.1,Asia
 Azerbaijan,1960,251.55,Asia
 Bahrain,1960,178.77,Asia
@@ -2695,7 +2695,7 @@ Burkina Faso,1955,375.54,Africa
 Burundi,1955,306.99,Africa
 Cameroon,1955,303.72,Africa
 Central African Republic,1955,234.24,Africa
-Chad,1955,314.27,Africa
+Chad,2010,151.17,Africa
 Comoros,1955,289.94,Africa
 Congo,1955,254.44,Africa
 Djibouti,1955,175.12,Africa
@@ -2769,7 +2769,7 @@ Saint Vincent and the Grenadines,1955,175.88,Americas
 Suriname,1955,108.55,Americas
 Trinidad and Tobago,1955,94.05,Americas
 Uruguay,1955,62.48,Americas
-Afghanistan,1955,265.58,Asia
+Afghanistan,2010,74.67,Asia
 Armenia,1955,216.24,Asia
 Azerbaijan,1955,317.13,Asia
 Bahrain,1955,228.21,Asia
@@ -2919,7 +2919,7 @@ Burkina Faso,1950,393.48,Africa
 Burundi,1950,322.08,Africa
 Cameroon,1950,342.09,Africa
 Central African Republic,1950,240.15,Africa
-Chad,1950,331.28,Africa
+Chad,2017,122.75,Africa
 Comoros,1950,304.8,Africa
 Congo,1950,259.16,Africa
 Djibouti,1950,182.84,Africa
@@ -2993,7 +2993,7 @@ Saint Vincent and the Grenadines,1950,190.33,Americas
 Suriname,1950,119.09,Americas
 Trinidad and Tobago,1950,117.1,Americas
 Uruguay,1950,77.29,Americas
-Afghanistan,1950,278.38,Asia
+Afghanistan,2017,55.77,Asia
 Armenia,1950,263.45,Asia
 Azerbaijan,1950,369.57,Asia
 Bahrain,1950,264.95,Asia
