@@ -1,7 +1,3 @@
-﻿Indicator name: Births attended by skilled health personnel (%) - Joint UNICEF/WHO database,,,,,,,,,,,,,,,,,,,
-SDG indicator 3.1.2  Proportion of births attended by skilled health personnel (%),,,,,,,,,,,,,,,,,,,
-Update: February 2021,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
 ISO,Country,Coverage Start Year,Coverage End Year,Survey Start Year,Survey End Year,SAB (%),SAB Definition ,SAB Definition Detail,Sample Size (0=No data),Sample Size Detail,Age Range ,Data Source,Data  Type,Data Quality,Source,Short source,Data Status ,SDG Inclusion,Latest data point
 AFG,Afghanistan,2001,2003,2003,2003,14.3,1,,0,0,,1,1,1,"Multiple Indicator Cluster Survey - 2003 Afghanistan. Afghanistan: Central Statistics Office [Afghanistan], United Nations Children’s Fund (UNICEF); 2004.",MICS 2003. ,1,1,
 AFG,Afghanistan,2005,2010,2010,2010,34.3,1,,16998,3,,1,1,1,"Afghanistan Mortality Survey 2010. Calverton: Afghan Public Health Institute, Ministry of Public Health (APHI/MoPH) [Afghanistan], Central Statistics Organization (CSO) [Afghanistan], ICF Macro, Indian Institute of Health Management Research (IIHMR) [India], and World Health Organization Regional Office for the Eastern Mediterranean (WHO/EMRO) [Egypt]; 2011.",AMS 2010,1,1,
